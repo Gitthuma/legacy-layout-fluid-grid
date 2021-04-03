@@ -1,0 +1,16 @@
+body {
+  width: 90%;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  padding-right: 2.08333333%;
+}
+
+.col {
+  float: left;
+  margin-left: 2.08333333%;
+  width: 6.25%;
+  background: rgb(255, 150, 150);
+}
