@@ -23,3 +23,5 @@ Updating our grid
 To get started in this section, make a new copy of your previous example page.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods
+
+Live web: https://gitthuma.github.io/legacy-layout-fluid-grid/
